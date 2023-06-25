@@ -115,9 +115,8 @@ const App = () => {
               <p>{value.desc}</p>
               
             </div>)
-        }))}
-
-        
+        }))
+    
         </div>
       
     </div>
